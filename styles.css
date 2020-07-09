@@ -105,7 +105,8 @@ main {
 }
 .header__nav nav ul:hover {
   cursor: pointer;
-  width: 100%;
+  background: black;
+  width: 60%;
 }
 .header__nav nav ul li {
   list-style: none;
